@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
+"VMResWidth"=dword:00000780
+"VMResHeight"=dword:00000438
+"VMMemorySizeInMB"=dword:00002000
+"VMCpuCount"=dword:00000008
+"FrameRate"=dword:0000003c
+"GraphicsQuality"=dword:00000004
+"HDQualityEnable"=dword:00000001
+"RenderOptimizeEnabled"=dword:00000001
+"LocalShaderCacheEnabled"=dword:00000001
+"LowLatencyMode"=dword:00000001
+"ForceDirectX"=dword:0000000c
+"VtEnable"=dword:00000001
+"VSyncEnabled"=dword:00000000
+"RootEnabled"=dword:00000000
+"AdbDisable"=dword:00000001
+"FpsPlusEnabled"=dword:00000001
+"EnableGLESv3"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\UITips]
+"SysbarUserGuideTips"=dword:00000000
+"MemBoostNocheck"=dword:00000001
+"ShowTips"=dword:00000000
+"HideAdvancedWatermark"=dword:00000001
+"UI_VerifyPeFile"=dword:00000000
